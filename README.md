@@ -1,6 +1,12 @@
 # Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 
-Sou [João Vitor], um(a) apaixonado(a) por tecnologia e desenvolvimento de software. 🚀
+<p align="center">
+  <a href="https://github.com/seu-usuario">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2DD7F1&width=435&lines=Desenvolvedor+Fullstack;Entusiasta+em+IA+%26+Cloud;Bem-vindo+ao+meu+perfil!" />
+  </a>
+</p>
+
+Sou João Vitor, um(a) apaixonado(a) por tecnologia e desenvolvimento de software. 🚀
 
 ## 📌 Sobre mim
 - 🎓 Formação: Ciência da computação
