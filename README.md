@@ -29,7 +29,7 @@ Sou [João Vitor], um(a) apaixonado(a) por tecnologia e desenvolvimento de softw
 📧 **Email:** joaovitorprofissional.git@gmail.com
 
 
-💼 **LinkedIn:** https://www.linkedin.com/in/vitinho2play-silva-236aaa318/ 
+💼 **LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-vitor-rodrigues-236aaa318/ 
 
 
 Seja bem-vindo ao meu perfil e sinta-se à vontade para explorar meus repositórios! 🚀
