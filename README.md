@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Sou João Vitor, um(a) apaixonado(a) por tecnologia e desenvolvimento de software. 🚀
+Sou João Vitor, um apaixonado por tecnologia e desenvolvimento de software. 🚀
 
 ## 📌 Sobre mim
 - 🎓 Formação: Ciência da computação
