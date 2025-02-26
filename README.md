@@ -20,8 +20,8 @@ Sou [João Vitor], um(a) apaixonado(a) por tecnologia e desenvolvimento de softw
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoyoteeBR&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoyoteeBR&layout=compact&theme=dark)
 
 ---
 
